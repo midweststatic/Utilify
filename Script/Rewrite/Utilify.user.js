@@ -819,7 +819,7 @@ const createSnowEffect = (e) => {
         const logoLink = logoContainer.querySelector('a[title="KoGaMa"]');
         if (logoLink) {
             logoLink.title = "UtilifyV2 with <3";
-            logoLink.href = "https://github.com/7v6a";
+            logoLink.href = "https://github.com/cybrskunk";
             const logoImg = logoLink.querySelector('img');
             if (logoImg) {
                 logoImg.src = "https://avatars.githubusercontent.com/u/143356794?v=4";
