@@ -30,15 +30,12 @@ The table below outlines features within the script that may violate the above g
 
 ***
 
-## 🗒️ Update Log - November 19, 2025 (v2.0.4)
+## 🗒️ Update Log - December 2, 2025 (v2.0.7)
 
 * **A) Configuration Menu Overhaul:** Create & Moved multiple options under ``Use At Own Risk`` Category.
 * **B) Feature Added:** Implemented [LazyStreakKeeper](https://github.com/midweststatic/LazyStreakKeeper).
 * **C) WebGL Fix:** SVG Button to add settings no longer displays and attaches to WebGL windows.
 * **D) Proper Credits:** Decided to finally creater proper Credits, kinda.
-* **E) Load Fix:** Implemented the Tampermonkey tag ``@run-at document-start`` to ensure all script components load reliably before the page renders.
-* **F) Fix/Improvement:** The **Blur Sensitive Data** feature has been fixed and slightly improved.
-* **G) UI Fix:** Config window logic was updated to prevent it from appearing in positions that would make it impossible to move or interact with.
 
 ***
 
