@@ -30,12 +30,13 @@ The table below outlines features within the script that may violate the above g
 
 ***
 
-## 🗒️ Update Log - December 2, 2025 (v2.0.7)
+## 🗒️ Update Log - December 3, 2025 (v2.0.8)
 
 * **A) Configuration Menu Overhaul:** Create & Moved multiple options under ``Use At Own Risk`` Category.
 * **B) Feature Added:** Implemented [LazyStreakKeeper](https://github.com/midweststatic/LazyStreakKeeper).
 * **C) WebGL Fix:** SVG Button to add settings no longer displays and attaches to WebGL windows.
 * **D) Proper Credits:** Decided to finally creater proper Credits, kinda.
+* **E) Mass Purchase Tool V2:** An improved feature from UtilifyV1 to mass purchase th same avatar/model multiple times automatically.
 
 > <img width="1735" height="1052" alt="{40022F24-8752-4BAD-A685-2B133E122A20}" src="https://github.com/user-attachments/assets/d242e11b-5fef-404c-a56a-aaf592823dba" />
 
